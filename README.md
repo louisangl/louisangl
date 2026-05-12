@@ -3,7 +3,7 @@
   <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop" alt="Aerospace AI Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
 </p>
 
-<h1 align="center">Salut, je suis [Ton Prénom/Pseudo] 👋</h1>
+<h1 align="center">Salut, je suis Louis Ang. 👋</h1>
 <h3 align="center">Ingénieur(e) IA & Data | Passionné(e) par l'Aéronautique et le Spatial 🚀</h3>
 
 <p align="center">
@@ -45,19 +45,19 @@
 
 <p align="center">
   <!-- Remplace 'ton-pseudo' par ton vrai nom d'utilisateur GitHub dans les deux liens ci-dessous -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-pseudo&theme=tokyonight" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=louisangl&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louisangl&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
   <!-- Top Langages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisangl&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
 
 ### 📫 Me Contacter
 <p align="center">
-  <a href="https://linkedin.com/in/ton-profil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/louis-angleys-10110422a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
