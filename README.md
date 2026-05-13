@@ -35,19 +35,6 @@
 
 ---
 
-### 📊 Mes Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louisangl&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louisangl&theme=tokyonight" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisangl&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
-
----
-
 ### 📫 Me Contacter
 <p align="center">
   <a href="https://www.linkedin.com/in/louis-angleys-10110422a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
