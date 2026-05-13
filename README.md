@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-DuD8q2Rw9u8?q=80&w=2072&auto=format&fit=crop" alt="Aerospace AI Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
-</p>
 
-<h1 align="center">Salut, je suis Louis Angleys 👋</h1>
+<h1 align="center">Bonjour, je suis Louis Angleys 👋</h1>
 <h3 align="center">Ingénieur IA & Data Science | Passionné d'Aéronautique 🚀</h3>
 
 <p align="center">
-  Ingénieur fraîchement diplômé de l'ENAC, je suis passionné par l'application de la Data Science et de l'IA Générative aux problématiques industrielles. Curieux et autonome, j'aime explorer de nouvelles architectures (RAG, agents) pour concevoir des solutions innovantes, avec un fort attrait pour l'optimisation et la décarbonation dans les transports.
+  Fraîchement diplômé de l'ENAC, j'utilise la Data Science et l'IA comme leviers pour résoudre des problématiques industrielles concrètes. Mon profil polyvalent me permet de naviguer entre physique, modélisation et ingénierie logicielle pour concevoir des architectures robustes et performantes. Curieux par nature, je ne me fixe pas de limites sectorielles : ce qui me motive, c'est l'innovation technique et l'apprentissage constant de nouveaux frameworks ou domaines d'application. Mon objectif ? Transformer des données complexes en solutions intelligentes et efficientes. 
 </p>
 
 ---
@@ -15,8 +12,8 @@
 
 - 🌍 **Je recherche** : Une première opportunité (CDI, V.I.E ou expérience à l'international) en tant qu'Ingénieur IA / Data Scientist pour mettre mes compétences au service de projets ambitieux.
 - 🚀 **Actuellement** : Je consolide mes compétences en développant un Chatbot LLM orienté production (inférence Groq, observabilité Langfuse, MLOps), tout en me formant en continu aux nouvelles tendances de l'écosystème IA.
-- 🧠 **J'explore** : Les architectures agentiques avancées (LangGraph, MCP) et les réseaux de neurones informés par la physique (**PINNs**) appliqués à la dynamique de vol.
-- 💬 **Pose-moi des questions sur** : Mon dernier projet de création d'un pipeline GraphRAG (Neo4j, PostgreSQL), le traitement de données aéro, ou mes récents apprentissages techniques !
+- 🧠 **J'explore** : Les architectures agentiques avancées (LangGraph, MCP) et les réseaux de neurones informés par la physique (**PINNs**).
+- 💬 **Pose-moi des questions sur** : Mon dernier projet de création d'un pipeline GraphRAG, le traitement de données aéro, ou mes récents apprentissages techniques !
 
 ---
 
