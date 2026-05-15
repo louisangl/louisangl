@@ -14,9 +14,9 @@ Je cherche une première opportunité (CDI, V.I.E, ou expérience à l'internati
 
 ## Ce sur quoi je travaille
 
-### GraphRAG — Groupe ADP `Stage PFE · 7 mois · Paris`
+### GraphRAG — Groupe ADP `Stage PFE · 6 mois · Orly`
 
-Durant mon stage de fin d'études au sein de la Direction Innovation du Groupe ADP (Aéroports de Paris), j'ai conçu et déployé un système **GraphRAG** de bout en bout pour optimiser des processus métiers complexes.
+Durant mon stage de fin d'études au sein de la Direction Innovation du Groupe ADP (Aéroports de Paris), j'ai conçu un système **GraphRAG** de bout en bout pour optimiser des processus métiers complexes.
 
 Le problème de départ : les systèmes RAG vectoriels classiques échouent sur les requêtes "multi-hop" — celles qui nécessitent de traverser plusieurs documents liés pour construire une réponse. Par exemple : *"Quelles procédures de maintenance sont impactées par ce nouveau marché de signalisation ?"* implique de relier un marché à des équipements, puis des équipements à des manuels — une chaîne de causalité qu'un RAG vectoriel ne voit pas.
 
