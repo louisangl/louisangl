@@ -47,32 +47,17 @@ Réseaux de neurones contraints par des équations différentielles, appliqués 
 ---
  
 ## Stack
- 
-**Langages & backend**  
-![Python](https://img.shields.io/badge/Python-0f1923?style=flat-square&logo=python&logoColor=7ab8e0)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f1923?style=flat-square&logo=fastapi&logoColor=5dcaa5)
-![Docker](https://img.shields.io/badge/Docker-0f1923?style=flat-square&logo=docker&logoColor=7ab8e0)
-![Git](https://img.shields.io/badge/Git-0f1923?style=flat-square&logo=git&logoColor=f0997b)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0f1923?style=flat-square&logo=githubactions&logoColor=7ab8e0)
- 
-**Data & bases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1923?style=flat-square&logo=postgresql&logoColor=7ab8e0)
-![pgvector](https://img.shields.io/badge/pgvector-0f1923?style=flat-square&logo=postgresql&logoColor=5dcaa5)
-![Neo4j](https://img.shields.io/badge/Neo4j-0f1923?style=flat-square&logo=neo4j&logoColor=5dcaa5)
-![Apache AGE](https://img.shields.io/badge/Apache%20AGE-0f1923?style=flat-square&logo=apache&logoColor=f0997b)
-![Spark](https://img.shields.io/badge/Spark-0f1923?style=flat-square&logo=apachespark&logoColor=ef9f27)
- 
-**ML & IA**  
-![PyTorch](https://img.shields.io/badge/PyTorch-0f1923?style=flat-square&logo=pytorch&logoColor=ef9f27)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f1923?style=flat-square&logo=scikitlearn&logoColor=ef9f27)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0f1923?style=flat-square&logo=huggingface&logoColor=ef9f27)
-![LangGraph](https://img.shields.io/badge/LangGraph-0f1923?style=flat-square&logo=langchain&logoColor=a99de8)
- 
-**Observabilité & infra**  
-![Langfuse](https://img.shields.io/badge/Langfuse-0f1923?style=flat-square&logoColor=a99de8)
-![Groq](https://img.shields.io/badge/Groq-0f1923?style=flat-square&logoColor=5dcaa5)
-![Azure](https://img.shields.io/badge/Azure-0f1923?style=flat-square&logo=microsoftazure&logoColor=7ab8e0)
- 
+ **Langages & backend**
+![Python](https://img.shields.io/badge/Python-0f1923?style=for-the-badge&logo=python&logoColor=7ab8e0) ![FastAPI](https://img.shields.io/badge/FastAPI-0f1923?style=for-the-badge&logo=fastapi&logoColor=5dcaa5) ![Docker](https://img.shields.io/badge/Docker-0f1923?style=for-the-badge&logo=docker&logoColor=7ab8e0) ![Git](https://img.shields.io/badge/Git-0f1923?style=for-the-badge&logo=git&logoColor=f0997b) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0f1923?style=for-the-badge&logo=githubactions&logoColor=7ab8e0)
+
+**Data & bases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1923?style=for-the-badge&logo=postgresql&logoColor=7ab8e0) ![pgvector](https://img.shields.io/badge/pgvector-0f1923?style=for-the-badge&logo=postgresql&logoColor=5dcaa5) ![Neo4j](https://img.shields.io/badge/Neo4j-0f1923?style=for-the-badge&logo=neo4j&logoColor=5dcaa5) ![Apache AGE](https://img.shields.io/badge/Apache%20AGE-0f1923?style=for-the-badge&logo=apache&logoColor=f0997b) ![Spark](https://img.shields.io/badge/Spark-0f1923?style=for-the-badge&logo=apachespark&logoColor=ef9f27)
+
+**ML & IA**
+![PyTorch](https://img.shields.io/badge/PyTorch-0f1923?style=for-the-badge&logo=pytorch&logoColor=ef9f27) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0f1923?style=for-the-badge&logo=scikitlearn&logoColor=ef9f27) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-0f1923?style=for-the-badge&logo=huggingface&logoColor=ef9f27) ![LangGraph](https://img.shields.io/badge/LangGraph-0f1923?style=for-the-badge&logo=langchain&logoColor=a99de8)
+
+**Observabilité & infra**
+![Langfuse](https://img.shields.io/badge/Langfuse-0f1923?style=for-the-badge&logoColor=a99de8) ![Groq](https://img.shields.io/badge/Groq-0f1923?style=for-the-badge&logoColor=5dcaa5) ![Azure](https://img.shields.io/badge/Azure-0f1923?style=for-the-badge&logo=microsoftazure&logoColor=7ab8e0)
 
 ## Projets académiques
 
