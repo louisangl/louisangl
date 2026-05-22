@@ -1,0 +1,40 @@
+# Ignore profile-specific banner
+banner.png
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swo
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Logs
+*.log
+
+# Misc
+coverage/
+coverage.*
+*.tmp
+
+# Ignore generated profile assets
+*.min.*
